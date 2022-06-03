@@ -1,0 +1,29 @@
+body {
+    background-color: #282828;
+    padding-left: 100px;
+    padding-top: 70px ;
+    color:grey;
+}
+
+.title {
+    color: #ffffff;
+}
+
+.top-title {
+    color:#92db71;
+}
+
+.gen-button {
+    border: none;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.table {
+    color:white;
+}
